@@ -2,8 +2,12 @@
 - Estoy enfocado actualmente en terminar mi carrera de Ingenieria en sitemas computacionales en el Tecnologico
 - Tengo interes en mejorar no solo mis conocimientos en programacion sino tambien en otras areas 
 - Pueden encontrarme en Facebook como Adrian Cuevas
-
-
+-El lengauje markdown es importante ya que permite documetar en github admas de ser pr
+-|   |   |   |   |   |
+-|---|---|---|---|---|
+-|   |   |   |   |   |
+-|   |   |   |   |   |
+-|   |   |   |   |   |
 
 
 <!--
