@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - 🤔 Me intereza mejorar mis conocimientos sobre  programacion
 - 📫 Como contactarme: Facebook Adrian Cuevas
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+
+
